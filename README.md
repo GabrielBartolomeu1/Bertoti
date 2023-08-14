@@ -23,7 +23,6 @@ Interpretação
     
     Engenharia de software não é apenas programação pois não envolvem apenas em codígos mas nas decisões dos desenvolvedores
     na hora de fazer o programa, os "trade-offs".
-    Programar é um parte muito significativa no processo da engenharia de software, pois sem ela nao seria possível gerar os softwares em primeiro lugar.
     
 Trade-Off
 
@@ -33,3 +32,13 @@ Trade-Off
         na hora de buscar os dados
     
         3º trade-off - Meu sistema tem uma grande facilidade ao ser desenvolvido mas ele acaba não tem um grande desempenho em grande escala
+
+3 - Atividade (Escolha outro exemplo e faça na mesma atividade)
+
+        Um outro exemplo para isso, é a Steam e a Epic Games
+        onde a Steam tem um maior acesso de usúarios diariamente
+        do que a Epic, um dos grandes motivos é o fato da acessibilidade
+        da Epic, já que o launcher dele demora muito para abrir e na Steam
+        o acesso é muito mais rápido
+
+        
