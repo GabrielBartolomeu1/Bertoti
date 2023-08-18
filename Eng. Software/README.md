@@ -5,11 +5,14 @@ Engenharia de Software
     In a software engineering organization, we need to be more concerned about scale and efficiency, both for the software we produce as well as for the organization that is producing it. 
     Finally, as software engineers, we are asked to make more complex decisions with higher-stakes outcomes, often based on imprecise estimates of time and growth.
 
+
 Interpretação
     
     Os engenheiros de softwares tem algumas diferenças com os programadores em questão de exisgências de projetos, como: 
     ser mais preocupado com o tempo que é gasto, a eficiencia e tem muitos decisões que geram um grande risco, 
     que as vezes são baseadas em estimativas de tempo imprecisas.
+
+------------------------------------------------
 
 Engenharia de Software não é só programar
     
@@ -24,6 +27,9 @@ Interpretação
     Engenharia de software não é apenas programação pois não envolvem apenas em codígos mas nas decisões dos desenvolvedores
     na hora de fazer o programa, os "trade-offs".
     
+------------------------------------------------
+
+    
 Trade-Off
 
         1º trade-off - Meu sistema tem muito segurança para o usúario mas isso acaba diminuindo a usabilidade
@@ -33,10 +39,77 @@ Trade-Off
     
         3º trade-off - Meu sistema tem uma grande facilidade ao ser desenvolvido mas ele acaba não tem um grande desempenho em grande escala
 
-3 - Atividade (Escolha outro exemplo e faça na mesma atividade)
+------------------------------------------------
+
+Atividade 3 - (Escolha outro exemplo e faça na mesma atividade)
 
         Um outro exemplo para isso, é a Steam e a Epic Games
         onde a Steam tem um maior acesso de usúarios diariamente
         do que a Epic, um dos grandes motivos é o fato da acessibilidade
         da Epic, já que o launcher dele demora muito para abrir e na Steam
         o acesso é muito mais rápido.
+        
+------------------------------------------------
+
+Atividade 4 - Encontre um erro e um acerto de cada heurística e coloque no seu readm.md do github.
+
+1 - Visibilidade do status do sistema
+    
+        Acerto: Quando você consegue ver a trajetória do uber até chegar em você.
+        
+        Erro: Quando você não consegue ver se um produto em uma loja virtual está com o estoque esgotado.
+        
+2 - Correspondência entre o sistema e o mundo real
+    
+        Acerto: Ao criar um aplicativo que simula uma bússola, fazer ela parecida como a vida real, assim fazendo assim que o usuário tenha uma familiaridade com o sistema.
+        
+        Erro: Sistemas com muitas palavras tecnicas e assim dificultando para quem é iniciante ou não entende algumas siglas.
+        
+3 - Controle e liberdade do usuário
+    
+        Acerto: Botões de voltar que se forem usados podem quebrar a lógica subjacente e assim, ao o usuário clicar na opção gerar uma tela perguntando se deseja realmente voltar e explicando o que pode acontecer
+        
+        Erro: Quando você apaga algo importante e nao consegue apenas dar um Ctrl + Z
+        
+4 - Consistência e padrões
+    
+        Acerto: Sites que mantem a estrutura do site, como o link clicavel seja azul, um icone de engrenagem seja a de configurações, etc.
+        
+        Erro: Sites que tentam inovar na sua interface e assim confundindo o usuário ao navegar pelo seu sistema e assim tendo que aprender algo novo para conseguir utilizar.
+        
+5 - Prevenção de erros
+    
+        Acerto: Sites que completem a sua pesquisa conforme você for digitando, assim facilidando a pesquisa do usuário e ainda prevenindo dele escrever o nome do produto incorretamente.
+        
+        Erro: Sites que não limitam as ações do usuário para que ele tenha mais flexibidade do usuário mas assim pode acabar fazendo que ele faça uma ação que não seja possível e assim ocasionando em um erro.
+        
+6 - Reconhecimento em vez de recordação
+    
+        Acerto: Mostrar histórico das páginas que o usuário usou recentemente.
+        
+        Erro: Fazer que o usuário tenha que lembrar sobre algo em vez de usar um sistema de reconhecimento para ajuda-lo.
+        
+7 - Flexibilidade e eficiência de uso
+    
+        Acerto: Criar atalhos para facilitar o usuário a navegar mais rapidamente no site.
+        
+        Erro: Dificil acesso a uma certa informação e assim obrigando o usuário ter que fazer uma grande quantidade de etapas.
+        
+8 - Design estético e minimalista
+    
+        Acerto: Colocar apenas o necessário na tela para assim fazer que o usuário foque no que está na sua tela.
+        
+        Erro: Deixar muitas informações na tela e assim distraindo o usuário do que realmente precisam.
+        
+9 - Ajude os usuários a reconhecer, diagnosticar e se recuperar de erros
+    
+        Acerto: Ter indicações que sejam amigaveis para usuário que não sejam experientes com o aplicativo.
+        
+        Erro: Ao ocorrer um erro mostrar por exemplo o erro "404" e que mesmo que isso possa ser obvio para a maioria sempre vai ter alguem que não saberá o que significa.
+        
+10 - Ajuda e documentação
+    
+        Acerto: Ao poder criar um slide, o aplicativo já proporcionar designs de slides mais comuns
+        
+        Erro: Documentação dificil de entender.
+        
