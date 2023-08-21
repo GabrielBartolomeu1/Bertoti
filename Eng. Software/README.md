@@ -51,7 +51,7 @@ Atividade 3 - (Escolha outro exemplo e faça na mesma atividade)
         
 ------------------------------------------------
 
-Atividade 4 - Encontre um erro e um acerto de cada heurística e coloque no seu readm.md do github.
+Atividade 3 - Encontre um erro e um acerto de cada heurística e coloque no seu readm.md do github.
 
 1 - Visibilidade do status do sistema
     
@@ -113,3 +113,8 @@ Atividade 4 - Encontre um erro e um acerto de cada heurística e coloque no seu 
         
         Erro: Documentação dificil de entender.
         
+------------------------------------------------
+
+Atividade 4 - Fazer o diagrama de casos de uso com os requisitos funcionais do seu sistema
+
+<img align="center" src="https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/aa2f1f13-6e6f-4e26-a9ca-5fc5715c7a2e"/>
