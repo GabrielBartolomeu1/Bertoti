@@ -115,6 +115,7 @@ Atividade 3 - Encontre um erro e um acerto de cada heurística e coloque no seu 
         
 ------------------------------------------------
 
+
 Atividade 4 - Fazer o diagrama de casos de uso com os requisitos funcionais do seu sistema
 
-<img align="center" src="https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/aa2f1f13-6e6f-4e26-a9ca-5fc5715c7a2e"/>
+<img align="center" src="https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/70459f9c-8b3d-4be4-8f39-d7205cd81219"/>
