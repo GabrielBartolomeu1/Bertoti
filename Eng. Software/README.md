@@ -118,7 +118,7 @@ Atividade 3 - Encontre um erro e um acerto de cada heurística e coloque no seu 
 
 Atividade 4 - Fazer o diagrama de casos de uso com os requisitos funcionais do seu sistema
 
-<img align="center" src="https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/70459f9c-8b3d-4be4-8f39-d7205cd81219"/>
+<img align="center" src="https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/d9b1ab98-7576-45b1-9e58-678df2ef9a97"/>
 
 Diagrama UML
 
