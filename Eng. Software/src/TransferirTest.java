@@ -1,27 +1,52 @@
+import org.junit.Before;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
 public class TransferirTest {
+
+    private Banco banco;
+    private Cliente remetente;
+    private Cliente destinatario;
+
+    @Before
+    public void setUp() {
+        banco = new Banco("MeuBanco");
+        remetente = new Cliente("João", banco, "12345", "João Silva", 1000.0);
+        destinatario = new Cliente("Maria", banco, "54321", "Maria Oliveira", 500.0);
+    }
+
     @Test
-    public void testTransferirBanco(){
-        Transferir conta1 = new Transferir("12345", "Cleber", 1000.0);
-        Transferir conta2 = new Transferir("54321", "Maria", 500.0);
+    public void testRealizarTransferenciaSaldoSuficiente() {
+        // Configurar clientes com contas específicas para o teste
+        ContaBancaria contaRemetente = new ContaBancaria("12345", "João Silva", 1000.0);
+        ContaBancaria contaDestinatario = new ContaBancaria("54321", "Maria Oliveira", 500.0);
+        remetente.setConta(contaRemetente);
+        destinatario.setConta(contaDestinatario);
 
-        System.out.println("Saldo inicial da conta1: " + conta1.getSaldo());
-        System.out.println("Saldo inicial da conta2: " + conta2.getSaldo());
+        // Realizar a transferência
+        Transferir transferir = new Transferir(remetente, destinatario, 200.0);
+        transferir.realizarTransferencia();
 
-        conta1.transferir(conta2, 300.0);
+        // Verificar se a transferência foi realizada corretamente
+        assertEquals(800.0, contaRemetente.getSaldo(), 0.001); // Delta de 0.001 para comparação de ponto flutuante
+        assertEquals(700.0, contaDestinatario.getSaldo(), 0.001); // Delta de 0.001 para comparação de ponto flutuante
+    }
 
-        System.out.println("Novo saldo da conta1: " + conta1.getSaldo());
-        System.out.println("Novo saldo da conta2: " + conta2.getSaldo());
+    @Test
+    public void testRealizarTransferenciaSaldoInsuficiente() {
+        // Configurar clientes com contas específicas para o teste
+        ContaBancaria contaRemetente = new ContaBancaria("12345", "João Silva", 1000.0);
+        ContaBancaria contaDestinatario = new ContaBancaria("54321", "Maria Oliveira", 500.0);
+        remetente.setConta(contaRemetente);
+        destinatario.setConta(contaDestinatario);
 
-        assertEquals("12345", conta1.getNumeroConta());
-        assertEquals("Cleber", conta1.getTitular());
-        assertEquals(700.0, conta1.getSaldo(), 0.001); // 1000 - 300 = 700
+        // Tentar realizar a transferência com saldo insuficiente
+        Transferir transferir = new Transferir(remetente, destinatario, 1200.0);
+        transferir.realizarTransferencia();
 
-        assertEquals("54321", conta2.getNumeroConta());
-        assertEquals("Maria", conta2.getTitular());
-        assertEquals(800.0, conta2.getSaldo(), 0.001); // 500 + 300 = 800
+        // Verificar se a transferência não foi realizada e os saldos permanecem inalterados
+        assertEquals(1000.0, contaRemetente.getSaldo(), 0.001); // Delta de 0.001 para comparação de ponto flutuante
+        assertEquals(500.0, contaDestinatario.getSaldo(), 0.001); // Delta de 0.001 para comparação de ponto flutuante
     }
 }

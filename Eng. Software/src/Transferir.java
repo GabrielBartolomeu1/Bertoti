@@ -1,16 +1,22 @@
-public class Transferir extends ContaBancaria {
+public class Transferir {
+    private Cliente remetente;
+    private Cliente destinatario;
+    private double valor;
 
-    public Transferir(String numeroConta, String titular, double saldo) {
-        super(numeroConta, titular, saldo);
+    public Transferir(Cliente remetente, Cliente destinatario, double valor) {
+        this.remetente = remetente;
+        this.destinatario = destinatario;
+        this.valor = valor;
     }
 
-    public void transferir(ContaBancaria contaDestino, double valor) {
-        if (valor > 0 && valor <= saldo) {
-            saldo -= valor;
-            contaDestino.saldo += valor;
-            System.out.println("Transferência de " + valor + " realizada com sucesso. Novo saldo: " + saldo);
+    public void realizarTransferencia() {
+        if (remetente.getConta().getSaldo() >= valor) {
+            remetente.realizarSaque(valor);
+            destinatario.realizarDeposito(valor);
+            System.out.println("Transferência de R$ " + valor + " realizada com sucesso.");
         } else {
-            System.out.println("Transferência não realizada. Verifique o saldo e o valor informado.");
+            System.out.println("Transferência não realizada. Saldo insuficiente.");
         }
     }
+
 }
