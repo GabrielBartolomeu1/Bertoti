@@ -136,7 +136,7 @@ Erro: Suporte não tem opção de busca
 
 Atividade 4 - Fazer o diagrama de casos de uso com os requisitos funcionais do seu sistema
 
-<img align="center" src="https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/d9b1ab98-7576-45b1-9e58-678df2ef9a97"/>
+<img width="418" alt="image" src="https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/7053704b-42b0-4812-8612-44b245622807">
 
 Diagrama UML
 
