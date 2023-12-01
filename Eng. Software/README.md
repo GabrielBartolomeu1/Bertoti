@@ -59,7 +59,8 @@ Acerto: Quando você consegue ver a trajetória do uber até chegar em você.
         
 Erro: Quando você clica em um botão e não recebe um feedback de que ele foi clicado
         
-<img align="center" src=https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/a6dbbde4-1858-4b76-9ccf-41ce3a43a112/>
+<img align="center" src="https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/1feeb35a-11e8-4302-8c95-141bf85d83c6"/>
+
 
         
 2 - Correspondência entre o sistema e o mundo real
