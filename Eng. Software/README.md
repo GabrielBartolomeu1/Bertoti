@@ -1,4 +1,4 @@
-![image](https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/ae26d04c-342f-4876-b59d-220abc71c54c)![image](https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/5c744ecd-ef7d-4151-b107-ee93e0dbe1f7)Engenharia de Software
+Engenharia de Software
     
     We see three critical differences between programming and software engineering: time, scale, and the trade-offs at play. 
     On a software engineering project, engineers need to be more concerned with the passage of time and the eventual need for change. 
