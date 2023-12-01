@@ -140,5 +140,5 @@ Atividade 4 - Fazer o diagrama de casos de uso com os requisitos funcionais do s
 
 Diagrama UML
 
-<img align ="center" src="https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/7a48553b-4c57-4687-978c-011bd1d4fdf5"/>
+<img width="468" alt="image" src="https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/b989c2a2-f2d0-4b47-949d-f8300e5c6ab8">
 
