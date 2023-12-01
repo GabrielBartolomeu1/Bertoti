@@ -114,7 +114,7 @@ Acerto: Colocar apenas o necessário na tela para assim fazer que o usuário foq
         
 Erro: Deixar muitas informações na tela e assim distraindo o usuário do que realmente precisam.
 
-![image](https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/3faec075-e01a-47c5-b5fd-1db04f9acc30)
+<img align="center" src="https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/3faec075-e01a-47c5-b5fd-1db04f9acc30"/>
 
 9 - Ajude os usuários a reconhecer, diagnosticar e se recuperar de erros
     
