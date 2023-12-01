@@ -59,8 +59,7 @@ Acerto: Quando você consegue ver a trajetória do uber até chegar em você.
         
 Erro: Quando você clica em um botão e não recebe um feedback de que ele foi clicado
         
-<img align="center" src="https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/1feeb35a-11e8-4302-8c95-141bf85d83c6"
-    />
+<img align="center" src="https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/1feeb35a-11e8-4302-8c95-141bf85d83c6"/>
 
 2 - Correspondência entre o sistema e o mundo real
     
@@ -68,16 +67,14 @@ Acerto: Ao criar um aplicativo que simula uma bússola, fazer ela parecida como 
         
 Erro: Sistemas com muitas palavras tecnicas e assim dificultando para quem é iniciante ou não entende algumas siglas.
 
-<img align="center" src="https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/3462235f-3bf6-4862-b638-ef39c8281f19"
-    />
+<img align="center" src="https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/3462235f-3bf6-4862-b638-ef39c8281f19"/>
 
 3 - Controle e liberdade do usuário
     
 Acerto: Botões de voltar que se forem usados podem quebrar a lógica subjacente e assim, ao o usuário clicar na opção gerar uma tela perguntando se deseja realmente voltar e explicando o que pode acontecer
         
 Erro: Você nao conseguir ler as informações sem ter que logar/pagar 
-<img align="center" src="https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/e1f02a33-7314-4bc9-9d62-cd474780287a"
-    />
+<img align="center" src="https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/e1f02a33-7314-4bc9-9d62-cd474780287a"/>
 
 4 - Consistência e padrões
     
@@ -99,9 +96,9 @@ Erro: Fazer que o usuário tenha que lembrar sobre algo em vez de usar um sistem
         
 7 - Flexibilidade e eficiência de uso
     
-        Acerto: Criar atalhos para facilitar o usuário a navegar mais rapidamente no site.
+Acerto: Criar atalhos para facilitar o usuário a navegar mais rapidamente no site.
         
-        Erro: Dificil acesso a uma certa informação e assim obrigando o usuário ter que fazer uma grande quantidade de etapas.
+Erro: Dificil acesso a uma certa informação e assim obrigando o usuário ter que fazer uma grande quantidade de etapas.
         
 8 - Design estético e minimalista
     
