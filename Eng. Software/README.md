@@ -55,41 +55,42 @@ Atividade 3 - Encontre um erro e um acerto de cada heurística e coloque no seu 
 
 1 - Visibilidade do status do sistema
     
-        Acerto: Quando você consegue ver a trajetória do uber até chegar em você.
+Acerto: Quando você consegue ver a trajetória do uber até chegar em você.
         
-        Erro: Quando você clica em um botão e não recebe um feedback de que ele foi clicado
+Erro: Quando você clica em um botão e não recebe um feedback de que ele foi clicado
+        
 <img align="center" src=https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/a6dbbde4-1858-4b76-9ccf-41ce3a43a112/>
 
         
 2 - Correspondência entre o sistema e o mundo real
     
-        Acerto: Ao criar um aplicativo que simula uma bússola, fazer ela parecida como a vida real, assim fazendo assim que o usuário tenha uma familiaridade com o sistema.
+Acerto: Ao criar um aplicativo que simula uma bússola, fazer ela parecida como a vida real, assim fazendo assim que o usuário tenha uma familiaridade com o sistema.
         
-        Erro: Sistemas com muitas palavras tecnicas e assim dificultando para quem é iniciante ou não entende algumas siglas.
+Erro: Sistemas com muitas palavras tecnicas e assim dificultando para quem é iniciante ou não entende algumas siglas.
         
 3 - Controle e liberdade do usuário
     
-        Acerto: Botões de voltar que se forem usados podem quebrar a lógica subjacente e assim, ao o usuário clicar na opção gerar uma tela perguntando se deseja realmente voltar e explicando o que pode acontecer
+Acerto: Botões de voltar que se forem usados podem quebrar a lógica subjacente e assim, ao o usuário clicar na opção gerar uma tela perguntando se deseja realmente voltar e explicando o que pode acontecer
         
-        Erro: Quando você apaga algo importante e nao consegue apenas dar um Ctrl + Z
+ Erro: Quando você apaga algo importante e nao consegue apenas dar um Ctrl + Z
         
 4 - Consistência e padrões
     
-        Acerto: Sites que mantem a estrutura do site, como o link clicavel seja azul, um icone de engrenagem seja a de configurações, etc.
+Acerto: Sites que mantem a estrutura do site, como o link clicavel seja azul, um icone de engrenagem seja a de configurações, etc.
         
-        Erro: Sites que tentam inovar na sua interface e assim confundindo o usuário ao navegar pelo seu sistema e assim tendo que aprender algo novo para conseguir utilizar.
+Erro: Sites que tentam inovar na sua interface e assim confundindo o usuário ao navegar pelo seu sistema e assim tendo que aprender algo novo para conseguir utilizar.
         
 5 - Prevenção de erros
     
-        Acerto: Sites que completem a sua pesquisa conforme você for digitando, assim facilidando a pesquisa do usuário e ainda prevenindo dele escrever o nome do produto incorretamente.
+Acerto: Sites que completem a sua pesquisa conforme você for digitando, assim facilidando a pesquisa do usuário e ainda prevenindo dele escrever o nome do produto incorretamente.
         
-        Erro: Sites que não limitam as ações do usuário para que ele tenha mais flexibidade do usuário mas assim pode acabar fazendo que ele faça uma ação que não seja possível e assim ocasionando em um erro.
+Erro: Sites que não limitam as ações do usuário para que ele tenha mais flexibidade do usuário mas assim pode acabar fazendo que ele faça uma ação que não seja possível e assim ocasionando em um erro.
         
 6 - Reconhecimento em vez de recordação
     
-        Acerto: Mostrar histórico das páginas que o usuário usou recentemente.
+Acerto: Mostrar histórico das páginas que o usuário usou recentemente.
         
-        Erro: Fazer que o usuário tenha que lembrar sobre algo em vez de usar um sistema de reconhecimento para ajuda-lo.
+Erro: Fazer que o usuário tenha que lembrar sobre algo em vez de usar um sistema de reconhecimento para ajuda-lo.
         
 7 - Flexibilidade e eficiência de uso
     
@@ -99,21 +100,21 @@ Atividade 3 - Encontre um erro e um acerto de cada heurística e coloque no seu 
         
 8 - Design estético e minimalista
     
-        Acerto: Colocar apenas o necessário na tela para assim fazer que o usuário foque no que está na sua tela.
+Acerto: Colocar apenas o necessário na tela para assim fazer que o usuário foque no que está na sua tela.
         
-        Erro: Deixar muitas informações na tela e assim distraindo o usuário do que realmente precisam.
+Erro: Deixar muitas informações na tela e assim distraindo o usuário do que realmente precisam.
         
 9 - Ajude os usuários a reconhecer, diagnosticar e se recuperar de erros
     
-        Acerto: Ter indicações que sejam amigaveis para usuário que não sejam experientes com o aplicativo.
+Acerto: Ter indicações que sejam amigaveis para usuário que não sejam experientes com o aplicativo.
         
-        Erro: Ao ocorrer um erro mostrar por exemplo o erro "404" e que mesmo que isso possa ser obvio para a maioria sempre vai ter alguem que não saberá o que significa.
+Erro: Ao ocorrer um erro mostrar por exemplo o erro "404" e que mesmo que isso possa ser obvio para a maioria sempre vai ter alguem que não saberá o que significa.
         
 10 - Ajuda e documentação
     
-        Acerto: Ao poder criar um slide, o aplicativo já proporcionar designs de slides mais comuns
+Acerto: Ao poder criar um slide, o aplicativo já proporcionar designs de slides mais comuns
         
-        Erro: Documentação dificil de entender.
+Erro: Documentação dificil de entender.
         
 ------------------------------------------------
 
