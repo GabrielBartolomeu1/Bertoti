@@ -57,7 +57,9 @@ Atividade 3 - Encontre um erro e um acerto de cada heurística e coloque no seu 
     
         Acerto: Quando você consegue ver a trajetória do uber até chegar em você.
         
-        Erro: Quando você não consegue ver se um produto em uma loja virtual está com o estoque esgotado.
+        Erro: Quando você clica em um botão e não recebe um feedback de que ele foi clicado
+<img align="center" src=https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/a6dbbde4-1858-4b76-9ccf-41ce3a43a112/>
+
         
 2 - Correspondência entre o sistema e o mundo real
     
