@@ -121,13 +121,16 @@ Erro: Deixar muitas informações na tela e assim distraindo o usuário do que r
 Acerto: Ter indicações que sejam amigaveis para usuário que não sejam experientes com o aplicativo.
         
 Erro: Ao ocorrer um erro mostrar por exemplo o erro "404" e que mesmo que isso possa ser obvio para a maioria sempre vai ter alguem que não saberá o que significa.
-        
+
+<img align="center" src="https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/d74d4caa-625c-420c-8c54-b9f93a792357"/>
+
 10 - Ajuda e documentação
     
 Acerto: Ao poder criar um slide, o aplicativo já proporcionar designs de slides mais comuns
         
-Erro: Documentação dificil de entender.
-        
+Erro: Suporte não tem opção de busca
+<img align="center" src="https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/15169512-ec29-49cc-8b52-8c9210c60004"/>
+
 ------------------------------------------------
 
 
