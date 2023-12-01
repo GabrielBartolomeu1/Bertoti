@@ -129,10 +129,10 @@ Erro: Ao ocorrer um erro mostrar por exemplo o erro "404" e que mesmo que isso p
 Acerto: Ao poder criar um slide, o aplicativo já proporcionar designs de slides mais comuns
         
 Erro: Suporte não tem opção de busca
+
 <img align="center" src="https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/15169512-ec29-49cc-8b52-8c9210c60004"/>
 
 ------------------------------------------------
-
 
 Atividade 4 - Fazer o diagrama de casos de uso com os requisitos funcionais do seu sistema
 
