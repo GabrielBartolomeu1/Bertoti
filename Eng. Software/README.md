@@ -1,4 +1,4 @@
-Engenharia de Software
+![image](https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/ae26d04c-342f-4876-b59d-220abc71c54c)![image](https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/5c744ecd-ef7d-4151-b107-ee93e0dbe1f7)Engenharia de Software
     
     We see three critical differences between programming and software engineering: time, scale, and the trade-offs at play. 
     On a software engineering project, engineers need to be more concerned with the passage of time and the eventual need for change. 
@@ -67,7 +67,7 @@ Acerto: Ao criar um aplicativo que simula uma bússola, fazer ela parecida como 
         
 Erro: Sistemas com muitas palavras tecnicas e assim dificultando para quem é iniciante ou não entende algumas siglas.
 
-<img align="center" src="https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/3462235f-3bf6-4862-b638-ef39c8281f19"/>
+<img align="center" src="https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/4261d23e-c7ba-44f0-94ec-54d3c9c86488"/>
 
 3 - Controle e liberdade do usuário
     
@@ -80,32 +80,42 @@ Erro: Você nao conseguir ler as informações sem ter que logar/pagar
     
 Acerto: Sites que mantem a estrutura do site, como o link clicavel seja azul, um icone de engrenagem seja a de configurações, etc.
         
-Erro: Sites que tentam inovar na sua interface e assim confundindo o usuário ao navegar pelo seu sistema e assim tendo que aprender algo novo para conseguir utilizar.
-        
+Erro: Sites completamente fora do padrão, deixando o usuário confuso
+
+<img align="center" src="https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/3462235f-3bf6-4862-b638-ef39c8281f19"/>
+
 5 - Prevenção de erros
     
 Acerto: Sites que completem a sua pesquisa conforme você for digitando, assim facilidando a pesquisa do usuário e ainda prevenindo dele escrever o nome do produto incorretamente.
         
-Erro: Sites que não limitam as ações do usuário para que ele tenha mais flexibidade do usuário mas assim pode acabar fazendo que ele faça uma ação que não seja possível e assim ocasionando em um erro.
-        
+Erro: Você não ter um botão para apagar uma informação automaticamente e ter que fazer na mão
+
+<img align="center" src="https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/47025d95-bf85-4ff6-a066-fb2c1c2cdef4"/>
+
 6 - Reconhecimento em vez de recordação
     
 Acerto: Mostrar histórico das páginas que o usuário usou recentemente.
         
-Erro: Fazer que o usuário tenha que lembrar sobre algo em vez de usar um sistema de reconhecimento para ajuda-lo.
-        
+Erro: Um formulário online que não fornece dicas contextuais ao usuário sobre o formato correto de entrada, obrigando-os a lembrar-se de regras específicas, como tem que botar o DDD ou () no número e etc.
+
+<img align="center" src="https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/a252d8e9-22f0-40ec-8d4f-7b9dfde74815"/>
+
 7 - Flexibilidade e eficiência de uso
     
 Acerto: Criar atalhos para facilitar o usuário a navegar mais rapidamente no site.
         
 Erro: Dificil acesso a uma certa informação e assim obrigando o usuário ter que fazer uma grande quantidade de etapas.
-        
+
+<img align="center" src="https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/32c9d44f-6cd7-4b35-82ff-9fb42adf295a"/>
+
 8 - Design estético e minimalista
     
 Acerto: Colocar apenas o necessário na tela para assim fazer que o usuário foque no que está na sua tela.
         
 Erro: Deixar muitas informações na tela e assim distraindo o usuário do que realmente precisam.
-        
+
+![image](https://github.com/GabrielBartolomeu1/Bertoti/assets/127538473/3faec075-e01a-47c5-b5fd-1db04f9acc30)
+
 9 - Ajude os usuários a reconhecer, diagnosticar e se recuperar de erros
     
 Acerto: Ter indicações que sejam amigaveis para usuário que não sejam experientes com o aplicativo.
