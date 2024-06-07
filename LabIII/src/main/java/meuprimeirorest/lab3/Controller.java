@@ -1,4 +1,4 @@
-package meuprimeirorest.labiii;
+package meuprimeirorest.lab3;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

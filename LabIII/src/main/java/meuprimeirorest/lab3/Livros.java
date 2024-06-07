@@ -1,4 +1,4 @@
-package meuprimeirorest.labiii;
+package meuprimeirorest.lab3;
 
 public class Livros {
     private final String id;
