@@ -1,14 +1,13 @@
-package meuprimeirorest.lab3;
+package meuprimeirorest.labiii;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Lab3Application {
+public class LabIiiApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Lab3Application.class, args);
+        SpringApplication.run(LabIiiApplication.class, args);
     }
 
 }
-

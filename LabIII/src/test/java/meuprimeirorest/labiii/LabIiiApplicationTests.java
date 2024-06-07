@@ -1,10 +1,10 @@
-package meuprimeirorest.lab3;
+package meuprimeirorest.labiii;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Lab3ApplicationTests {
+class LabIiiApplicationTests {
 
     @Test
     void contextLoads() {
