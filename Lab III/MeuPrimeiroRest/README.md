@@ -1,4 +1,0 @@
-- icone de get
-- icone de post
-- icone de put
-- icone de delete
