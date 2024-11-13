@@ -10,14 +10,12 @@ public class Application {
         EventListener netflixUser = new NetflixSubscriber("user_netflix@example.com");
         EventListener hboUser = new HBOSubscriber("user_hbo@example.com");
 
-        primeVideo.events.subscribe("newRelease", primeUser);
-        netflix.events.subscribe("discount", netflixUser);
-        hbo.events.subscribe("featureUpdate", hboUser);
+        primeVideo.subscribe("newRelease", primeUser);
+        netflix.subscribe("discount", netflixUser);
+        hbo.subscribe("featureUpdate", hboUser);
 
         primeVideo.addNewRelease("The Boys Season 3");
         netflix.addDiscount("20% de desconto no próximo mês!");
         hbo.addFeatureUpdate("Nova funcionalidade de download offline disponível.");
     }
 }
-
-
